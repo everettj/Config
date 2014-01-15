@@ -1,0 +1,8 @@
+alias bx='bundle exec'
+alias bxrs='bundle exec rails server'
+alias bxtu='bundle exec rake test:units'
+alias ccli='cassandra-cli --host localhost --port 9160'
+alias ll='ls -l'
+alias la='ls -la'
+alias lt='ls -lrt'
+alias tw='open -a TextWrangler'
